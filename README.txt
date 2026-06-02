@@ -1,0 +1,4 @@
+Large "Print-in-place" Ball Bearing (Ø145mm) by barspin on Thingiverse: https://www.thingiverse.com/thing:520238
+
+Summary:
+Please consider supporting me on Patreon: https://www.patreon.com/DanielNoreeI needed a slightly larger 3dprinted ball bearing than i already have for a demo.There is a 0,3mm gap between the parts themselves and the custom support. Just print and remove support.Printed in ABS w 0,15mm layer height.Short video (courtesy of Creative Tools):http://youtu.be/nqusY3M5Lso?list=UUGWmj8zbYmQFBZxZvGzR_Bw  By Daniel NoréeHome - Things - GooglePlus - Twitter - Facebook - Youtube - Instagram - Vimeo - LinkedIn
